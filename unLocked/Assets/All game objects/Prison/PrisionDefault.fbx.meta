@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 978aa2f8cb89c4a48af39af93c4124ec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Chao
+    100004: Grades
+    100006: Lamp
+    100008: ParedeCelas
+    100010: ParedeCimaPorta
+    100012: ParedeFundo
+    100014: ParedeLado
+    100016: ParedePorta
+    100018: Point
+    100020: Point.001
+    100022: Portao
+    100024: Pota
+    100026: Pota.001
+    100028: //RootNode
+    100030: Telhado
+    400000: Camera
+    400002: Chao
+    400004: Grades
+    400006: Lamp
+    400008: ParedeCelas
+    400010: ParedeCimaPorta
+    400012: ParedeFundo
+    400014: ParedeLado
+    400016: ParedePorta
+    400018: Point
+    400020: Point.001
+    400022: Portao
+    400024: Pota
+    400026: Pota.001
+    400028: //RootNode
+    400030: Telhado
+    2000000: Camera
+    2100000: Porta
+    2100002: Parede2
+    2100004: Parede
+    2100006: Door
+    2100008: Gate
+    2100010: Roof
+    2100012: Floor
+    2100014: Detail
+    2300000: Chao
+    2300002: Grades
+    2300004: ParedeCelas
+    2300006: ParedeCimaPorta
+    2300008: ParedeFundo
+    2300010: ParedeLado
+    2300012: ParedePorta
+    2300014: Portao
+    2300016: Pota
+    2300018: Pota.001
+    2300020: Telhado
+    3300000: Chao
+    3300002: Grades
+    3300004: ParedeCelas
+    3300006: ParedeCimaPorta
+    3300008: ParedeFundo
+    3300010: ParedeLado
+    3300012: ParedePorta
+    3300014: Portao
+    3300016: Pota
+    3300018: Pota.001
+    3300020: Telhado
+    4300000: Pota.001
+    4300002: Pota
+    4300004: ParedeCimaPorta
+    4300006: ParedePorta
+    4300008: Portao
+    4300010: Grades
+    4300012: Telhado
+    4300014: ParedeCelas
+    4300016: Chao
+    4300018: ParedeFundo
+    4300020: ParedeLado
+    7400000: Portao|Cube.035Action
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Point
+    10800004: Point.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
